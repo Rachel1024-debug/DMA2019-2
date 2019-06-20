@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>title</title>
+</head>
+<body>
+<form>
+<input type="number" id="numberOne" value="" />
+<input type="number" id="numberTwo" value="" />
+<input type="button" value="Sum Numbers" onclick="sumNumbers()" id="buttonSum"/>
+
+</form>
+<p id="sum"></p>
+
+
+<input type="number" id="number_three"
+       value=""/>
+<input type="number" id="number_four"
+       value=""/>
+<input type="button" value="Product Numbers" onclick = "productNumbers()" id="buttonProduct"/>
+
+<p id = "product"</p>
+
+<input type="number" id="numberFive"
+       value=""/>
+<input type="number" id="numberSix"
+       value=""/>
+<input type="button" value="Quotient Numbers" onclick = "quotientNumbers()" id="buttonQuotient"/>
+
+<p id = "quotient"</p>
+</body>
+</html>
