@@ -1,0 +1,40 @@
+
+#numberOne {
+  border-radius:12%;
+    border:2px solid;
+  }
+#numberTwo {
+  border-radius:12%;
+    border:2px solid;
+}
+#buttonSum{
+  border-radius:12%;
+  border:2px solid;
+  
+}
+#number_three{
+  border-radius:12%;
+  border:2px solid;
+}
+#number_four{
+  border-radius:12%;
+  border:2px solid;
+}
+#buttonProduct{
+  border-radius:12%;
+  border:2px solid;
+  background-color:;
+}
+#numberFive{
+  border-radius:12%;
+    border:2px solid;
+}
+#numberSix{
+  border-radius:12%;
+  border:2px solid;
+}
+#buttonQuotient{
+  border-radius:12%;
+  border:2px solid;
+  background-color:;
+}
